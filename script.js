@@ -60,7 +60,7 @@ noBtn.addEventListener("click", () => {
 // YES is clicked
 
 yesBtn.addEventListener("click", () => {
-    title.textContent = "YAAAAAY...I KNEW IT 😎❤";
+    title.textContent = "YAAAAAY...I KNEW YOU'D SAY YESS 😎❤";
 
     catImg.src = "cat_dance.gif";
 
